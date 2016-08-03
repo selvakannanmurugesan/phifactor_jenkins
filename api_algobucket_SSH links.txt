@@ -1,0 +1,6 @@
+http://grokbase.com/t/gg/play-framework/136n7fmwv9/2-1-1-scala-ssl-certificates-in-production
+http://stackoverflow.com/questions/17035690/play-2-1-ssl-configuration
+https://www.playframework.com/documentation/1.1.1/releasenotes-1.1#https
+https://www.playframework.com/documentation/2.2.x/ConfiguringHttps
+https://www.playframework.com/documentation/2.0.1/HTTPServer
+http://www.poornerd.com/2014/01/04/how-to-configure-an-ssl-certificate-with-play-framework-for-ssl/
